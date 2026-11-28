@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use Aphelion-Judge-3.8B or its evaluation benchmark in your work, please cite it as below."
+title: "Aphelion-Judge-3.8B: First-Principles Micro-CoT Judge for RAG Groundedness Verification"
+authors:
+  - family-names: "Bagaskara"
+    given-names: "P. Kanisius"
+year: 2026
+license: MIT
+repository-code: "https://github.com/knsiuss/aphelion-judge"
+url: "https://huggingface.co/knss12/Aphelion-Judge-3.8B"
+keywords:
+  - rag
+  - groundedness
+  - hallucination-detection
+  - llm-as-a-judge
+  - micro-cot
+  - phi-3.5
